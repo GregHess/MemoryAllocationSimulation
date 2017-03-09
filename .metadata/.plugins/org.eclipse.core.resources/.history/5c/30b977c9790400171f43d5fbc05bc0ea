@@ -26,8 +26,4 @@ public class Memory {
 	public int getNumberOfPartitions(){
 		return this.partitionList.size();
 	}
-	
-	public ArrayList getPartitionList(){
-		return this.partitionList;
-	}
 }
