@@ -1,0 +1,28 @@
+
+public class Partition {
+
+	private int size;
+	private Job job = null;
+	
+	public Partition(int size){
+		this.size = size;
+	}
+	
+	public void setSize(int size){
+		this.size = size;
+	}
+	
+	public int getSize(){
+		return this.size;
+	}
+	
+	public void setJob(Job job){
+		this.job = job;
+	}
+	
+	public Job getJob(){
+		return this.job;
+	}
+	
+	publi
+}

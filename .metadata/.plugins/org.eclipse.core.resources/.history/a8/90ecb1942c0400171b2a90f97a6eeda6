@@ -1,0 +1,8 @@
+
+public class JobAllocator {
+
+	public boolean addJob(Job job){
+		return true;
+	}
+	
+}

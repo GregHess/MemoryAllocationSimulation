@@ -1,0 +1,14 @@
+
+public class JobAllocator {
+
+	public boolean addJob(Job job, Memory memoryAllocation){
+		
+		if(){
+			
+		}else{
+			
+		}
+		return true;
+	}
+	
+}

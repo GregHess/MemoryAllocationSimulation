@@ -1,0 +1,10 @@
+
+public class MemoryManagementDriver {
+
+	public static void main(){
+		
+		JobAllocator JA = new JobAllocator();
+		
+	}
+	
+}

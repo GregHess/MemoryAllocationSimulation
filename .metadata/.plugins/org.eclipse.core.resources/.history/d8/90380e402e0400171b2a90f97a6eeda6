@@ -1,0 +1,17 @@
+
+public class MemoryManagementDriver {
+
+	public static void main(){
+		
+
+		//TODO: SETUP FIXED ALLOCATION SPECIFICATIONS
+		FixedAllocation fixedAllocation = new FixedAllocation();
+		
+		//TODO: SETUP DYNAMIC ALLOCATION SPECIFICATIONS
+		DynamicAllocation dynamicAllocation = new DynamicAllocation();
+		
+		JobAllocator JA = new JobAllocator();
+		
+	}
+	
+}

@@ -1,0 +1,8 @@
+
+public class JobAllocator {
+
+	public JobAllocator(Job job){
+		
+	}
+	
+}

@@ -1,0 +1,24 @@
+import java.util.ArrayList;
+
+public class Memory {
+
+	private int totalMemory;
+	
+	ArrayList<Partition> partitionList = new ArrayList<Partition>();
+	
+	public Memory(){
+	}
+	
+	//SET and GET total memory amount;
+	public void setTotalMemory(int totalMemory){
+		this.totalMemory = totalMemory;
+	}
+	
+	public int getTotalMemory(){
+		return this.totalMemory;
+	}
+	
+	public int getNumberOfPartitions(){
+		return this.partitionList.size();
+	}
+}

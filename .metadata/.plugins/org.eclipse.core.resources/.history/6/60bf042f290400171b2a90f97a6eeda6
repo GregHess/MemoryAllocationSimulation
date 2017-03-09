@@ -1,0 +1,8 @@
+
+public class FixedAllocation extends Memory {
+	
+	public FixedAllocation(int totalMemory) {
+		super(totalMemory);
+	}
+
+}

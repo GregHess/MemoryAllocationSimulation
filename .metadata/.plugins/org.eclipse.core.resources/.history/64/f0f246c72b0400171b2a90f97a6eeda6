@@ -1,0 +1,12 @@
+
+public class FixedAllocation extends Memory {
+	
+	
+	
+	public FixedAllocation(int numberOfPartitions, int sizeOfPartitions) {
+		
+		
+		super();
+	}
+
+}

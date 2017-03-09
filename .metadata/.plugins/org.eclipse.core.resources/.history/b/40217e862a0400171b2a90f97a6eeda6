@@ -1,0 +1,12 @@
+
+public class Partition {
+
+	private int size;
+	private Job currentJob;
+	
+	public Partition(int size){
+		this.size = size;
+	}
+	
+	public set
+}

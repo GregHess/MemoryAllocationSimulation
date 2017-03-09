@@ -1,0 +1,26 @@
+
+public class Memory {
+
+	private int totalMemory;
+	private int numberOfPartitions;
+	
+	public Memory(int totalMemory){
+		this.totalMemory = totalMemory;
+	}
+	
+	public void setTotalMemory(int totalMemory){
+		this.totalMemory = totalMemory;
+	}
+	
+	public int getTotalMemory(){
+		return this.totalMemory;
+	}
+	
+	public void setNumberOfPartitions(int numberOfPartitions){
+		this.numberOfPartitions = numberOfPartitions;
+	}
+	
+	public int getNumberOfPartitions(){
+		return this.numberOfPartitions;
+	}
+}

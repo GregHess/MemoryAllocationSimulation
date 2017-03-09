@@ -1,0 +1,10 @@
+
+public class Memory {
+
+	private int totalMemory;
+	
+	public Memory(int totalMemory){
+		this.totalMemory = totalMemory;
+	}
+	
+}
