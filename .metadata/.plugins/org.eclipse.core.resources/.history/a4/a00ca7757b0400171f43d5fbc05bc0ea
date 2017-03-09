@@ -27,8 +27,8 @@ public class Memory {
 		return this.partitionList.size();
 	}
 	
-	public Partition getPartition(int index){
-		return this.partitionList.get(index);
+	public Partition getPartition(int partitionLocation){
+		return this.partitionList.get(partitionLocation);
 	}
 	
 	public ArrayList getPartitionList(){
